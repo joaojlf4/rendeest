@@ -58,7 +58,7 @@ const Comunity = () => {
             borderColor: '#CCC',
             borderWidth: 1,
             marginTop: 10,
-            height: 170,
+            height: 200,
             borderRadius: 14
           }}>
             <View style={{
@@ -68,7 +68,7 @@ const Comunity = () => {
               <Text style={{
                 // marginLeft: 180,
                 marginTop: 30,
-                fontSize: 20,
+                fontSize: 18,
                 color: "#FFF",
                 fontWeight: 'bold'
               }}>
@@ -78,7 +78,7 @@ const Comunity = () => {
                 // marginLeft: 180,
                 // marginRight: 10,
                 marginTop: 5,
-                fontSize: 14,
+                fontSize: 12,
                 color: "#e5e5e5",
                 marginBottom: 12
               }}>
@@ -103,7 +103,7 @@ const Comunity = () => {
           </View>
           <Picker style={{
             alignSelf: "flex-start",
-            width: '60%',
+            width: '90%',
             color: "#FFF",
 
           }}>
